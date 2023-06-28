@@ -1,0 +1,49 @@
+{
+    productsList=[
+    {
+        id:1,
+        type:"House",
+        image:"https://i.postimg.cc/bNJm7Xpf/th-1631564054.jpg",
+        price:'35 000 000',
+        quantity:1,
+        location:"Cairo,Egypt",
+        rooms:8
+    },
+    {
+        id:2,
+        type:"House",
+        image:"https://i.postimg.cc/Y2JxsvnY/th-2114995106.jpg",
+        price:'23 500 000',
+        quantity:1,
+        location:"Cape Town,South Africa",
+        rooms:6
+    },
+    {
+        id:3,
+        type:"House",
+        image:"https://i.postimg.cc/1tF8n3G1/th-3756547690.jpg",
+        price:'45 000 000',
+        quantity:1,
+        location:"Marrakech,Moretious",
+        rooms:12
+    },
+    {
+        id:4,
+        type:"House",
+        image:"https://i.postimg.cc/qvQbSkCr/th-4118733502.jpg",
+        price:'60 000 000',
+        quantity:1,
+        location:"Cape Town,South Africa",
+        rooms:7
+    },
+    {
+        id:5,
+        type:"House",
+        image:"https://i.postimg.cc/bNJm7Xpf/th-1631564054.jpg",
+        price:'35 000 000',
+        quantity:1,
+        location:"Sandton,South Africa",
+        rooms:8
+    }
+ ]
+}
